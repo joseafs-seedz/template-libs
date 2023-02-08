@@ -1,0 +1,21 @@
+{
+  "name": "@joseafs-seedz/template-libs",
+  "version": "1.0.5",
+  "description": "test",
+  "license": "MIT",
+  "sideEffects": false,
+  "main": "index.js",
+  "module": "esm/index",
+  "browser": {
+    "[module-name]": false
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "@material-ui/pickers": "^3.3.10",
+    "formik": "^2.2.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.6"
+  }
+}

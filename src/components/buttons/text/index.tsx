@@ -1,6 +1,6 @@
 import React from 'react'
 import { memo } from 'react'
-import { PropsBaseColors } from '~/types/theme'
+import { PropsBaseColors } from '../../../types/theme'
 import { Root } from './styled'
 
 export type PropsThemeButton = {

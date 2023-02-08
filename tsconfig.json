@@ -13,13 +13,13 @@
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
     "moduleResolution": "Node",
-    "baseUrl": "./src",
-    "paths": {
-      "~/components/*": ["components/*"],
-      "~/theme/*": ["theme/*"],
-      "~/utils/*": ["utils/*"],
-      "~/types/*": ["types/*"]
-    }
+    "baseUrl": "./src"
+    // "paths": {
+    //   "~/components/*": ["components/*"],
+    //   "~/theme/*": ["theme/*"],
+    //   "~/utils/*": ["utils/*"],
+    //   "~/types/*": ["types/*"]
+    // }
   },
   "include": ["src/**/*"],
   "exclude": ["node_modules"]
